@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "1.3",
+  "name": "Yosemite Vibes",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(208, 208, 208)",
+      "toolbar_text": "rgb(73, 73, 73)",
+      "frame": "rgb(208, 208, 208)",
+      "tab_background_text": "rgb(60, 60, 60)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgba(170, 168, 168, 0)",
+      "popup": "rgb(219, 220, 219)",
+      "popup_text": "rgb(73, 73, 73)",
+      "tab_selected": "rgb(233, 233, 233)",
+      "toolbar_bottom_separator": "rgb(180, 180, 180)",
+      "toolbar_field_border": "rgb(175, 175, 175)",
+      "toolbar_top_separator": "rgb(208, 208, 208)",
+      "tab_loading": "rgb(170, 168, 168)",
+      "ntp_background": "rgb(220, 220, 220)"
+    }
+  }
+}
